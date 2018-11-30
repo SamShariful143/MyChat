@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "640250723433",
+    "firebase_url": "https://mychat-4c1fc.firebaseio.com",
+    "project_id": "mychat-4c1fc",
+    "storage_bucket": "mychat-4c1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640250723433:android:4d00ecae3fdc924c",
+        "android_client_info": {
+          "package_name": "com.mychat.tuhintarif.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640250723433-odut1ded4ju5006i2f5bpbard1b8lcd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mychat.tuhintarif.mychat",
+            "certificate_hash": "ddc5f0d3eb1ae6fdad10be9fb5fcc661e2831d60"
+          }
+        },
+        {
+          "client_id": "640250723433-qnl1emt13rcrg2go1i9ulmrd2jq4ir92.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "640250723433-qnl1emt13rcrg2go1i9ulmrd2jq4ir92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt4QDuSB8f3ON9f1YKRFFa7ByE39LCCkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640250723433-qnl1emt13rcrg2go1i9ulmrd2jq4ir92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
